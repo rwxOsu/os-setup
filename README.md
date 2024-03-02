@@ -124,9 +124,9 @@ The setup I use for VSCode
 - Dark Reader
 - uBlock Origin
 - Selection Highlighter
-- 7TV
-- BetterTTV
+- Hotkeys for Search
 - Return Youtube Dislike
+- MAL-Sync
 
 
 ### Jetbrain IDE Plugins
